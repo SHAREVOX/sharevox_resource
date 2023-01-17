@@ -1,7 +1,84 @@
 [
-    {
-        "version": "0.1.0",
-        "descriptions": ["dummy description"],
-        "contributors": ["dummy contributor"]
-    }
+  {
+    "version": "0.2.0-preview.0",
+    "descriptions": [
+      "VOICEVOX 0.14の追従",
+      "Rust版コアへ移行",
+      "エンジンが起動しないことがある問題の修正",
+      "コードサイニング証明書の付与"
+    ],
+    "contributors": [
+      "PickledChair",
+      "qryxip"
+    ]
+  },
+  {
+    "version": "0.1.7",
+    "descriptions": [
+      "音声合成エンジンが異常終了する問題の修正",
+      "デバッグログの削除",
+      "アップデート情報が正しく表示されない問題の改善"
+    ],
+    "contributors": []
+  },
+  {
+    "version": "0.1.6",
+    "descriptions": [
+      "出力音声の長さや各母音・子音の長さが想定と異なっていた問題の修正",
+      "エンジン関連の一時フォルダ・ファイルが残る問題の修正",
+      "Docker版エンジンの提供"
+    ],
+    "contributors": []
+  },
+  {
+    "version": "0.1.5",
+    "descriptions": [
+      "音声ライブラリの上書きインストールができるように変更",
+      "音声ライブラリインストール画面でのボタンの挙動を修正"
+    ],
+    "contributors": [
+      "task4233"
+    ]
+  },
+  {
+    "version": "0.1.4",
+    "descriptions": [
+      "複数スタイルある音声ライブラリをインストールした際の挙動の修正",
+      "同じキャラを含む音声ライブラリをインストールした際、起動時にエラーが発生するのを修正"
+    ],
+    "contributors": []
+  },
+  {
+    "version": "0.1.3",
+    "descriptions": [
+      "Windowsにおいて、ユーザー名に日本語が含まれる際に起動できない問題を修正",
+      "Windows・Linuxのデスクトップアイコンの視認性改善"
+    ],
+    "contributors": [
+      "shigobu"
+    ]
+  },
+  {
+    "version": "0.1.2",
+    "descriptions": [
+      "文字列の置き換えミスの修正",
+      "前後無音が適用されない問題の修正"
+    ],
+    "contributors": []
+  },
+  {
+    "version": "0.1.1",
+    "descriptions": [
+      "Linux GPU版が起動できない問題を修正",
+      "「あ・い・う・え・お・を・ん」が調整・出力できない問題を修正"
+    ],
+    "contributors": []
+  },
+  {
+    "version": "0.1.0",
+    "descriptions": [
+      "ファーストリリース"
+    ],
+    "contributors": []
+  }
 ]
