@@ -1,0 +1,10 @@
+{
+    "name": "SHAREVOX標準音声ライブラリv3",
+    "uuid": "c80f1597-48e6-4664-bae8-2d992cc283d9",
+    "version": "0.3.0",
+    "models": ["official-v3-1", "official-v3-2"],
+    "manifest_version": "0.15.0",
+    "brand_name": "SHAREVOX",
+    "engine_name": "SHAREVOX Engine",
+    "engine_uuid": "d11b8518-7b23-4c9b-bd04-ecac1ad1e475"
+}
